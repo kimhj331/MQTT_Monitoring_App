@@ -1,0 +1,294 @@
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MqttMonitoringApp.exe.config
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MqttMonitoringApp.exe
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MqttMonitoringApp.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Caliburn.Micro.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Caliburn.Micro.Platform.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\ControlzEx.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Google.Protobuf.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\K4os.Compression.LZ4.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\K4os.Hash.xxHash.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\LiveCharts.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\LiveCharts.Wpf.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\M2Mqtt.Net.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MvvmDialogs.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MySql.Data.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Newtonsoft.Json.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Renci.SshNet.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Buffers.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Memory.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Numerics.Vectors.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Windows.Interactivity.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Ubiety.Dns.Core.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Zstandard.Net.dll
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Caliburn.Micro.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Caliburn.Micro.Platform.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\ControlzEx.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\ControlzEx.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Google.Protobuf.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\K4os.Compression.LZ4.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\K4os.Hash.xxHash.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\LiveCharts.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\LiveCharts.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\LiveCharts.Wpf.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\LiveCharts.Wpf.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\M2Mqtt.Net.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MvvmDialogs.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\MySql.Data.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Newtonsoft.Json.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\Renci.SshNet.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Buffers.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Memory.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Numerics.Vectors.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\App.g.cs
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp_MarkupCompile.cache
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp_MarkupCompile.lref
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\App.baml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.g.resources
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.Properties.Resources.resources
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.csproj.GenerateResource.cache
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.csproj.CoreCompileInputs.cache
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.csproj.CopyComplete
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.exe
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.pdb
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\MainView.g.cs
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\MainView.baml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.csprojAssemblyReference.cache
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\DataBaseView.g.cs
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\HistoryView.g.cs
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\RealTimeView.g.cs
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\DataBaseView.baml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\HistoryView.baml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\RealTimeView.baml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\CustomPopupView.g.cs
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\CustomPopupView.baml
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\ErrorPopupView.g.cs
+D:\00.PKNU2020\StudyVisualization\BougustTestApp\MqttMonitoringApp\obj\Debug\Views\ErrorPopupView.baml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.csprojAssemblyReference.cache
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\ErrorPopupView.g.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\CustomPopupView.g.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\DataBaseView.g.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\HistoryView.g.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\MainView.g.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\RealTimeView.g.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\App.g.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp_MarkupCompile.cache
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp_MarkupCompile.lref
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.exe
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MqttMonitoringApp.exe.config
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MqttMonitoringApp.exe
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MqttMonitoringApp.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Caliburn.Micro.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Caliburn.Micro.Platform.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\ControlzEx.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Google.Protobuf.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\K4os.Compression.LZ4.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\K4os.Hash.xxHash.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\LiveCharts.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\LiveCharts.Wpf.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\M2Mqtt.Net.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MvvmDialogs.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MySql.Data.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Newtonsoft.Json.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\OxyPlot.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\OxyPlot.Wpf.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Renci.SshNet.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Buffers.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Memory.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Numerics.Vectors.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Windows.Interactivity.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Ubiety.Dns.Core.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Zstandard.Net.dll
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Caliburn.Micro.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Caliburn.Micro.Platform.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\ControlzEx.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\ControlzEx.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Google.Protobuf.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\K4os.Compression.LZ4.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\K4os.Hash.xxHash.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\LiveCharts.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\LiveCharts.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\LiveCharts.Wpf.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\LiveCharts.Wpf.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\M2Mqtt.Net.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MvvmDialogs.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\MySql.Data.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Newtonsoft.Json.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\OxyPlot.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\OxyPlot.Wpf.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\Renci.SshNet.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Buffers.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Memory.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Numerics.Vectors.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\App.baml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\ErrorPopupView.baml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\CustomPopupView.baml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\DataBaseView.baml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\HistoryView.baml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\MainView.baml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\Views\RealTimeView.baml
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.g.resources
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.Properties.Resources.resources
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.csproj.GenerateResource.cache
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.csproj.CoreCompileInputs.cache
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\MqttMonitoringApp.csproj.CopyComplete

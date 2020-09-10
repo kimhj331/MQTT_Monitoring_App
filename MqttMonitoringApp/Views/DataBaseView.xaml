@@ -1,0 +1,64 @@
+﻿<UserControl 
+    x:Class="MqttMonitoringApp.Views.DataBaseView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:local="clr-namespace:MqttMonitoringApp.Views"
+    mc:Ignorable="d" 
+    d:DesignHeight="600" d:DesignWidth="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="DataBase Monitoring" Style="{DynamicResource MahApps.Styles.Label}" FontSize="25" FontWeight="Black"/>
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" 
+                   Style="{DynamicResource MahApps.Styles.Label}"
+                   VerticalAlignment="Center" FontSize="15"
+                   Content="Broker Url" />
+            <TextBlock x:Name="BrokerUrl" VerticalAlignment="Center"
+                Grid.Row="0" Grid.Column="1" Style="{DynamicResource MahApps.Styles.TextBlock}"/>
+            
+            <Label Grid.Row="1" Grid.Column="0" 
+                   Style="{DynamicResource MahApps.Styles.Label}"
+                   VerticalAlignment="Center" FontSize="15"
+                   Content="Topic" />
+            <TextBlock x:Name="Topic" VerticalAlignment="Center"
+                Grid.Row="1" Grid.Column="1" Style="{DynamicResource MahApps.Styles.TextBlock}"/>
+            
+            <Label Grid.Row="2" Grid.Column="0" 
+                   Style="{DynamicResource MahApps.Styles.Label}"
+                   VerticalAlignment="Center" FontSize="15"
+                   Content="Database Info" />
+            <TextBox x:Name="ConnString" VerticalAlignment="Center"
+                Grid.Row="2" Grid.Column="1" Style="{DynamicResource MahApps.Styles.TextBox}"
+                     FontSize="14"/>
+            
+            <Label Grid.Row="3" Grid.Column="0" 
+                   Style="{DynamicResource MahApps.Styles.Label}"
+                   VerticalAlignment="Center" FontSize="15"
+                   Content="Connetion" />
+            <ToggleButton  x:Name="Connect" Style="{DynamicResource MahApps.Styles.ToggleButton.Flat}" Content="Connect" Width="100" Margin="5"
+                           Grid.Row="3" Grid.Column="1" IsChecked="{Binding IsConnected}" HorizontalAlignment="Left"/>
+            
+            <TextBox x:Name="DbLog" Style="{StaticResource ConsoleTextBox}" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Background="AntiqueWhite" FontSize="12" Margin="20,10" 
+                     ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+        </Grid>
+       
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,20 @@
+﻿MqttMonitoringApp
+
+
+winexe
+C#
+.cs
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\obj\Debug\
+MqttMonitoringApp
+none
+false
+DEBUG;TRACE
+D:\2020 IOT개발자과정\MQTT_Monitoring_App\MqttMonitoringApp\App.xaml
+6-484523665
+
+21-41325978
+178-627272946
+Views\ErrorPopupView.xaml;Views\CustomPopupView.xaml;Views\DataBaseView.xaml;Views\HistoryView.xaml;Views\MainView.xaml;Views\RealTimeView.xaml;
+
+False
+
