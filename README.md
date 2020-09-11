@@ -229,7 +229,7 @@ namespace MqttMonitoringApp.ViewModels
 }
 ```
 
-+ DataBaseViewModel의 Insert함수에 내용이 추가되었습니다.
++ DataBaseViewModel의 InsertDataBase함수에 내용이 추가되었습니다.
 ``` C#
  private void InsertDataBase(string message)
         {
