@@ -12,7 +12,7 @@ namespace MqttMonitoringApp.ViewModels
 {
     class HistoryViewModel : Conductor<object>
     {
-        
+        //View와 데이터 바인딩을 위해 (Combobox)
         private BindableCollection<DivisionModel> divisions;
         public BindableCollection<DivisionModel> Divisions
         {

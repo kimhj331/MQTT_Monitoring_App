@@ -58,3 +58,23 @@ D:\2020 IOT개발자과정\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\Bog
 D:\2020 IOT개발자과정\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.csproj.CopyComplete
 D:\2020 IOT개발자과정\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.exe
 D:\2020 IOT개발자과정\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.pdb
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\BogusMqttPublishApp.exe.config
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\BogusMqttPublishApp.exe
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\BogusMqttPublishApp.pdb
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\Bogus.dll
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\M2Mqtt.Net.dll
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\MetroFramework.Design.dll
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\MetroFramework.dll
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\MetroFramework.Fonts.dll
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\Bogus.xml
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\M2Mqtt.Net.pdb
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\bin\Debug\Newtonsoft.Json.xml
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.csprojAssemblyReference.cache
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.MainForm.resources
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.Properties.Resources.resources
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.csproj.GenerateResource.cache
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.csproj.CoreCompileInputs.cache
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.csproj.CopyComplete
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.exe
+D:\MQTT_Monitoring_App\BogusMqttPublishApp\obj\Debug\BogusMqttPublishApp.pdb

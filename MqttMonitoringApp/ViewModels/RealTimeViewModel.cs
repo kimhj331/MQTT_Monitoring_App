@@ -114,7 +114,7 @@ namespace MqttMonitoringApp.ViewModels
             }
         }
 
-        private void BROKERCLIENT_MqttMsgPublishReceived(object sender, MqttMsgPublishEventArgs e)
+        private void BROKERCLIENT_MqttMsgPublishReceived(object sender, MqttMsgPublishEventArgs e) //데이터를 받을때마다 해당과정 수행
         {
             var message = Encoding.UTF8.GetString(e.Message);
             var currDates = JsonConvert.DeserializeObject<Dictionary<string, string>>(message);

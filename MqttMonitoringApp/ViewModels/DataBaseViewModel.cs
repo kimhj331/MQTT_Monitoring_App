@@ -73,7 +73,7 @@ namespace MqttMonitoringApp.ViewModels
             Topic = Commons.PUB_TOPIC;
             Commons.CONNSTRING = ConnString = "Server=localhost;Port3306;" +
                 "Database=iot_sensordata;Uid=root;Pwd=mysql_p@ssw0rd";
-            if (Commons.ISCONNECT)
+            if (Commons.ISCONNECT)//켜져있으면 계속 켜져있도록
             {
                 IsConnected = true;
                 Connect();
@@ -130,7 +130,8 @@ namespace MqttMonitoringApp.ViewModels
         //Database에 데이터 받기
         private void InsertDataBase(string message)
         {
-            var currDatas = JsonConvert.DeserializeObject<Dictionary<string, string>>(message);
+            var currDatas = JsonConvert.DeserializeObject<Dictionary<string, string>>(message);//Dictionary<TKey,TValue>
+
             using (var conn = new MySqlConnection(Commons.CONNSTRING))
             {
                 string strInsQuery = " INSERT INTO smarthometbl " +
@@ -155,7 +156,7 @@ namespace MqttMonitoringApp.ViewModels
                     conn.Open();
                     MySqlCommand cmd = new MySqlCommand(strInsQuery, conn);
                     MySqlParameter paramDevId = new MySqlParameter("@Dev_Id", MySqlDbType.VarChar);
-                    paramDevId.Value = currDatas["Dev_Id"];
+                    paramDevId.Value = currDatas["Dev_Id"]; //키를 입력하면 해당값이 입력됨
                     cmd.Parameters.Add(paramDevId);
 
                     MySqlParameter paramCurrTime = new MySqlParameter("@Curr_Time", MySqlDbType.DateTime);

@@ -26,8 +26,8 @@ namespace BogusMqttPublishApp
             MqttWorker = new BackgroundWorker();
 
             MqttWorker.DoWork += MqttWorker_DoWork;
-            MqttWorker.WorkerReportsProgress = false;
-            MqttWorker.WorkerSupportsCancellation = true;
+            MqttWorker.WorkerReportsProgress = false; //진행률 업데이트 지원
+            MqttWorker.WorkerSupportsCancellation = true; //백그라운드 취소작업을 지원
 
             MqttBrokerUrl = "localhost"; // 또는 127.0.0.1 /자신의 IP
 
